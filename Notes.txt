@@ -1,1 +1,4 @@
 Thise are git commands
+git add . --> to move the all changes to working tree to staging area
+git commit -->is used to move all the files to staging area to local repo
+git push -->is used to move all the file to local to remote area
